@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of curing comprehensively Explained and confirm'd, by exemplar of the Catholic medicine. Powerfully impregnated, and accuratly formed; to assist the regent principle, disabled, or impeded in vital government. Enabled hereby; more vigorously, and constantly to execute; the functions and daily operations; necessary to health, and life. For support of human bodyes, variously declining; and recovery out of a diseased state. The most useful, efficacious, and comprehensive expedient; (preventive and curative) against the painful diseased, and decays of human nature. By E. Maynwaringe. M.D. Jan. 11. 1693/3. Imprimatur. Edm. Bohun.</title>
+            <author>Maynwaringe, Everard, 1628-1699?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50447</idno>
+            <idno type="STC">Wing M1506</idno>
+            <idno type="STC">ESTC R217894</idno>
+            <idno type="EEBO-CITATION">99829537</idno>
+            <idno type="PROQUEST">99829537</idno>
+            <idno type="VID">33977</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33977)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1871:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of curing comprehensively Explained and confirm'd, by exemplar of the Catholic medicine. Powerfully impregnated, and accuratly formed; to assist the regent principle, disabled, or impeded in vital government. Enabled hereby; more vigorously, and constantly to execute; the functions and daily operations; necessary to health, and life. For support of human bodyes, variously declining; and recovery out of a diseased state. The most useful, efficacious, and comprehensive expedient; (preventive and curative) against the painful diseased, and decays of human nature. By E. Maynwaringe. M.D. Jan. 11. 1693/3. Imprimatur. Edm. Bohun.</title>
+                  <author>Maynwaringe, Everard, 1628-1699?</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIII. [1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With advertisement at end.</note>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33977:1" rendition="simple:additions"/>
+            <p>THE Myſtery of Curing Comprehenſively.</p>
+            <p>Explained and Confirm'd, by Exemplar of <hi>The Catholic Medicine.</hi>
+            </p>
+            <p>Powerfully Impregnated, and accuratly Formed; to Aſſiſt the <hi>Regent</hi> Principle, Diſabled, or Impeded in <hi>Vital</hi> Government.</p>
+            <p>Enabled hereby; more <hi>Vigorouſly,</hi> and <hi>conſtantly</hi> to Execute; the <hi>Functions</hi> and daily <hi>Operations;</hi> neceſſary to <hi>Health,</hi> and <hi>Life.</hi>
+            </p>
+            <p>For <hi>Support</hi> of <hi>Human</hi> Bodyes, variouſly Declining; and <hi>Recovery</hi> out of a Diſeaſed State.</p>
+            <p>The moſt <hi>uſeful, efficacious,</hi> and <hi>comprehenſive</hi> Expedient; (<hi>Preventive</hi> and <hi>Curative</hi>) againſt the painful <hi>Diſeaſes,</hi> and <hi>Decays</hi> of Human Nature.</p>
+            <p>By <hi>E. Maynwaringe.</hi> M. D.</p>
+            <q>Spes adhuc Spirantibus.</q>
+            <p>
+               <hi>Jan.</hi> 11. 1692/3. Imprimatur. <hi>Edm. Bohun.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Bookſellers. MDCXCIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33977:2"/>
+            <head>THE MYSTERY of CURING Comprehenſively, <hi>&amp;c.</hi>
+            </head>
+            <p>FIRST, give me leave to Premiſe this neceſſary <hi>Information,</hi> That the <hi>Primitive</hi> Profeſſors, and <hi>Fathers</hi> of Medical Science; were all diligent <hi>Preparers</hi> of their own <hi>Medicines:</hi> And their <hi>Succeſſors</hi> likewiſe for many <hi>Hundred</hi> Years after, continued <hi>Induſtrious</hi> in that Work; many urgent Reaſons requiring that moſt neceſſary Duty; which I forbear to recite: waving alſo the great <hi>Imprudence,</hi> in expoſing <hi>Patients</hi> to <hi>Hazards;</hi> by revolting from that ſecure, knowing, and moſt hopeful Practice.</p>
+            <p>Phyſitians then of the greateſt <hi>Repute;</hi> were ambitious of acquiring, ſome Medicine <hi>extraordinary;</hi> moſt uſeful and advantagious to the <hi>Publick;</hi> and it was their <hi>Glory</hi> account<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; to have their <hi>Names</hi> Celebrated thereby; as Pro<g ref="char:EOLhyphen"/>moters of a general good. But of latter times, the Learned making an un<g ref="char:EOLhyphen"/>happy <hi>Defection;</hi> and changing that laudable Cuſtom, for the vanity of <hi>Pen</hi> Practice: Illiterate bold <hi>Quacks</hi> have ſtept in, and perſonating the <hi>Phyſician;</hi> have impoſed their <hi>Cheats,</hi> and <hi>Trifles</hi> upon unwary People; which hath brought a <hi>Scandal</hi> upon publiſhing any thing of this kind; and thereby barr'd the Pub<g ref="char:EOLhyphen"/>lick from the benefit of Succeſsful Labours, of ſome Learned and moſt Ingeni<g ref="char:EOLhyphen"/>ous <hi>Artiſts.</hi>
+            </p>
+            <p>Thus much to obviate the <hi>Cenſure</hi> of undiſcerning weak Heads; and ſtop the mouths of <hi>malevolent</hi> men, of oppoſite <hi>Interests.</hi> I proceed now to the matter propoſed, and ſatisfaction promiſed.</p>
+            <p>That a <hi>ſingle</hi> Medicine may be endowed with a Power of <hi>
+                  <g ref="char:V">Ʋ</g>niverſality;</hi> pro<g ref="char:EOLhyphen"/>perly and efficaciouſly to oppoſe many and various <hi>Diſeaſes,</hi> in divers <hi>Perſons,</hi> is what I have undertaken to prove: The <hi>Poſſibility,</hi> and rational <hi>Probability</hi> where<g ref="char:EOLhyphen"/>of, will fairly appear; if you rightly underſtand as followeth.</p>
+            <p>I am now going out of the common beaten <hi>Road</hi> of Phyſick; and the vul<g ref="char:EOLhyphen"/>gar <hi>Methods</hi> of Phyſicians; into unknown <hi>Paths,</hi> but leading a nearer and ſafer way: you muſt not therefore expect my Diſcourſe to comport with the common <hi>Notions,</hi> and <hi>Opinions</hi> of Writers; yet conſentaneous with <hi>Reaſon,</hi> and juſtifiable thereby; confirmed alſo by matters of <hi>Fact.</hi>
+            </p>
+            <p>For your clearer Apprehenſion, I have digeſted the <hi>Diſcourſe</hi> methodically into three <hi>Parts:</hi> wherein three things preſents principally to be conſidered.</p>
+            <p>
+               <pb n="3" facs="tcp:33977:2"/>The <hi>Agent;</hi> the <hi>Works;</hi> and the <hi>Inſtrument!</hi>
+            </p>
+            <list>
+               <item>The Firſt <hi>Part</hi> ſets forth the Capacity of the <hi>Agent.</hi>
+               </item>
+               <item>The <hi>Second,</hi> contains the <hi>Difficulty,</hi> and <hi>Facility</hi> of the <hi>Work.</hi>
+               </item>
+               <item>The <hi>Third,</hi> ſhews the <hi>Hability,</hi> or Fitneſs of the <hi>Inſtrument.</hi>
+               </item>
+            </list>
+            <div n="1" type="part">
+               <head>The Firſt Part.</head>
+               <p>THE Capacity, Power, and Dexterity of this <hi>Agent,</hi> (the vital <hi>Principle</hi>) eminently appears: <hi>First,</hi> in the wonderful <hi>Draught,</hi> and Portraiture of <hi>Formation.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> in the daily courſe of <hi>Conſervation.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> in the <hi>Exigencies,</hi> and <hi>Attempts</hi> of <hi>Curation.</hi>
+               </p>
+               <p>In the <hi>firſt</hi> Performance of this <hi>Plaſtic</hi> and <hi>Architectonic</hi> Principle, take notice; that ſimple <hi>Spermatic</hi> Humour, was the <hi>ſingle</hi> matter out of which, and of which only, the <hi>Stamina</hi> or rudiments of the Stately Fabrick of Human Body, was for<g ref="char:EOLhyphen"/>med and framed, with different Spermatick Parts: <hi>Bones, Cartilages, Ligaments, Tendons, Membranes, Fibres,</hi> &amp;c. From thence proceeding to <hi>Organize,</hi> and compleat this wonderful <hi>Machine.</hi>
+               </p>
+               <p>The <hi>Second,</hi> and continual <hi>Operation</hi> of this governing vital Spirit; is main<g ref="char:EOLhyphen"/>taining and ſupplying, the many different Parts of Human Body, with various ſuitable Liquors, derived from a <hi>ſimple</hi> alimentary Juice, wrought in the Stomach, called <hi>Chyle.</hi>
+               </p>
+               <p>The third Performance of this diligent, and dextrous <hi>Operator;</hi> is repairing, mending, and reducing into order, this Workmanſhip; when decaying, or diſ<g ref="char:EOLhyphen"/>compoſed: By the Inſtrumental means of <hi>Medicine.</hi>
+               </p>
+               <p>The <hi>firſt,</hi> and <hi>ſecond</hi> Operations of this <hi>Agent</hi> are wonderful; in producing ſuch various ſtrange effects, out of <hi>ſingle</hi> and <hi>ſimple</hi> matter, as <hi>Sperm</hi> and <hi>Chyle;</hi> by a tranſmuting and tranſubſtantiating Power.</p>
+               <p>Now to make ſome Remarks from hence; and reduce theſe conſiderables to our <hi>Purpoſe.</hi>
+               </p>
+               <p>Here is the wonder of <hi>Fabrication.</hi>
+               </p>
+               <p>And the daily wonder of <hi>Nutrition,</hi> and <hi>Conſervation;</hi> by ſingle matter.</p>
+               <p>Then why not the wonder of <hi>Curation</hi> and <hi>Reparation</hi> by <hi>ſingle</hi> Medicine? which <hi>laſt</hi> Operation is not ſo wonderful, as the two former; when I come to ſhew you the rational <hi>Poſſibility.</hi> and fair <hi>Probability</hi> thereof; by comparing the <hi>Efficient,</hi> and the <hi>Inſtrument;</hi> with the <hi>Work</hi> to be done.</p>
+               <p>The <hi>firſt,</hi> and <hi>ſecond</hi> Performance of this great <hi>Architect,</hi> and <hi>Conſervator;</hi> no
+<pb n="4" facs="tcp:33977:3"/>Reaſon can demonſtrate or explain: yet <hi>Fact</hi> proves them both, and undeniably are confeſt by all.</p>
+               <p>Why then is the third Performance ſo incredible, and difficult to be admit<g ref="char:EOLhyphen"/>ted; that may be comprehended by our <hi>Reaſon?</hi> as the ſequel of the Diſcourſe will make manifeſt.</p>
+               <p>This curious <hi>Architect</hi> that built the <hi>Fabrick</hi> of Human Body; and formed all the various materials thereof by <hi>Tranſmutation</hi> of <hi>ſingle</hi> matter, with no <hi>Inſtru<g ref="char:EOLhyphen"/>ment:</hi> can probably, and with facility; repair and mend this Workmanſhip, when out of Order; with one <hi>exquiſite</hi> Inſtrument, egregiouſly contrived for <hi>Catholic</hi> uſe.</p>
+               <p>This vital <hi>Principle</hi> (called <hi>Nature</hi> ſometimes) is a <hi>Catholic</hi> free <hi>Agent;</hi> dai<g ref="char:EOLhyphen"/>ly performing various offices, and contrary motions in Human Body; yet all con<g ref="char:EOLhyphen"/>ſpiring harmoniouſly, for the uſe, and welfare of <hi>vital</hi> Government.</p>
+               <p>This Governour and Supporter of the <hi>Microcoſme;</hi> operates <hi>univerſally, vari<g ref="char:EOLhyphen"/>ouſly,</hi> and <hi>contrarily:</hi> yet conſentaneouſly, uſefully, and neceſſarily. <hi>Binds</hi> and <hi>looſens; opens,</hi> and <hi>ſhuts;</hi> moves <hi>upward,</hi> and <hi>downward; liquifies,</hi> and <hi>coagulates, rarifies</hi> and <hi>condenſeth; tranſmits,</hi> and <hi>retains; tranſmutes,</hi> and <hi>tranſubſtantiates,</hi> alimentary Matter into various forms, and Subſtances.</p>
+               <p>And all theſe <hi>different,</hi> and <hi>contrary</hi> Actions; are performed <hi>(efficienter)</hi> by the vital, ruling <hi>Principle: (materialiter,)</hi> with a <hi>ſingle</hi> alimentary Juice, digeſted in the Stomach, to ſupply, and enable every <hi>Part</hi> of the Body; differing in <hi>Organi<g ref="char:EOLhyphen"/>zation, Temperature, Texture,</hi> and <hi>Office,</hi> to execute their various Functions.</p>
+               <p>If this ſupreme <hi>Agent,</hi> can perform <hi>various</hi> and <hi>contrary</hi> Actions with <hi>ſingle</hi> Ali<g ref="char:EOLhyphen"/>ment: Then probably that ſame power may cure <hi>various,</hi> and <hi>contrary</hi> Diſeaſes, with ſingle Medicament.</p>
+               <p>Can the Vital tranſmuting Spirit, of <hi>Bread</hi> and <hi>Water;</hi> make <hi>Chyle, Blood, Ner<g ref="char:EOLhyphen"/>vous Juyce, Sperme,</hi> and <hi>Milk;</hi> various Liquors for divers uſes, of the ſame ali<g ref="char:EOLhyphen"/>mental matter?</p>
+               <p>Can this tranſubſtantiating <hi>Principle,</hi> make <hi>Blood</hi> here, <hi>Fleſh</hi> there, and <hi>Bones</hi> in another place, of the ſame <hi>Food?</hi>
+               </p>
+               <p>If this <hi>vital</hi> Spirit can maintain and feed, all the <hi>different</hi> Parts of the Body with <hi>one</hi> alimentary Juice, <hi>Chyle:</hi> Then probably, and very reaſonably, it may <hi>mend</hi> and <hi>Cure,</hi> all thoſe Parts with <hi>one</hi> Medicine.</p>
+               <p>If <hi>Nature</hi> can do wonders with <hi>ſingle</hi> Aliment; very likely ſhe can do wonders with <hi>ſingle</hi> Medicament.</p>
+               <p>'Tis undeniable that <hi>Wonders</hi> are wrought in Man<hi>'s</hi> Body every Day, tho in <hi>Health:</hi> But you are hard to believe that <hi>Wonders</hi> may be wrought by a <hi>Medicine</hi> in Sickneſs, or a diſeaſed State. And yet theſe Wonders will not ſeem ſo great; when I come to ſet forth the Nature, and <hi>Qualifications</hi> of a <hi>Catholic Medicine;</hi> and the Reaſons of its Comprehenſion, and Adaptneſs for Curing many and various Diſeaſes.</p>
+               <p>As <hi>Nature</hi> (the Life) doth diſtribute Aliment from the Stomach to all <hi>Parts</hi> of the Body; She can as eaſily convey (<hi>Materialiter vel Virtualiter)</hi> a Ca<g ref="char:EOLhyphen"/>tholic <hi>Inſtrument,</hi> into all Parts, to ſet them right.</p>
+               <p>
+                  <pb n="5" facs="tcp:33977:3"/>And this you muſt believe; that no <hi>Medicine</hi> directs or moves it ſelf here or there in the Body; but <hi>Nature</hi> diſpoſeth of it, to this <hi>Part,</hi> or that, as ſhe ſtands in need; conveying both <hi>Nutriment,</hi> and <hi>Medicament</hi> at her Pleaſure; at leaſt to her Power; and there is no Power elſe.</p>
+               <p>This vital <hi>Principle,</hi> is a dextrous and induſtrious <hi>Agent;</hi> that can doe wonder<g ref="char:EOLhyphen"/>fully for relief; if the Phyſitian (Miniſters <hi>Naturae</hi>) can provide ſuch a Medical Inſtrument, as is comodious for management; and generally uſeful.</p>
+               <p>Mechanic or manual <hi>Artiſts,</hi> that work externally upon their ſubject <hi>(Circa quod)</hi> have need of many <hi>Materials</hi> and <hi>Implements,</hi> to effect what they deſign, and are about: But the vital <hi>Principle</hi> is Seated more advantagiouſly; hath its Reſi<g ref="char:EOLhyphen"/>dence in every part of the Body, operating internally all the <hi>Functions;</hi> and there<g ref="char:EOLhyphen"/>fore ſtands not in need of ſuch variety of <hi>Inſtruments</hi> to work with.</p>
+               <p>You may underſtand from hence; the <hi>poſſibility</hi> to be very fair and reaſonable on <hi>Nature</hi>'s Side; that ſhe can manage a Catholic <hi>Medicine</hi> very well, to ſerve all the operations and intentions of <hi>Curing;</hi> is willing to recieve, and ready to operate with ſuch an Expedient: But the <hi>poſſibility</hi> of contriving and forming this <hi>Catholic</hi> Inſtrument, lyes not ſo eaſy and probable on the <hi>Phyſitian</hi>'s part: It is not to be done by gueſs, with <hi>Pen</hi> and <hi>Ink,</hi> upon a peice of <hi>Paper,</hi> in the preſcribing Mode.</p>
+               <p>Thus much ſhall ſuffice, to ſhew the Promptneſs, Energy, and Induſtry of the <hi>Efficient</hi> or vital <hi>Agent;</hi> in complying and operating with a <hi>Catholic</hi> Medicine. I paſs on to the next <hi>Stage;</hi> to ſet forth the difficulty of the Work to be done; and <hi>probability</hi> of performing it.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part.</head>
+               <p>HERE preſents to me a prodigious Company of <hi>Diſeaſes;</hi> of different <hi>kinds;</hi> and ſeated in various <hi>Parts</hi> of the Body, preying upon the <hi>Life</hi> of Man; if not ſubdued, or prevented by powerful means: So many, and ſo variouſly aſſaulting; that in your Reaſon may well require a vaſt number of <hi>Medicines</hi> to oppoſe them: And without ſuch combined force, and ready Aſſiſtance, you do believe, it is folly to attempt, and expect Succeſs in the undertaking of ſo great a work.</p>
+               <p>To remove this <hi>Difficulty,</hi> and ſeeming <hi>Impoſſibility</hi> that lyes in our way; and to render a <hi>Catholic</hi> Medicine ſufficient and a fit <hi>Inſtrument</hi> to perform <hi>Comprehenſively,</hi> againſt this great Company: I ſhall make two Strict Inquiries.</p>
+               <p>
+                  <hi>Firſt,</hi> into the <hi>Number</hi> of Diſeaſes: Then <hi>Secondly,</hi> into the <hi>Nature</hi> of them.</p>
+               <p>As to their Number, I find them Fictitiouſly multiplyed; ſeemingly but ſuch, not really ſo many; which in another Tract, I have denoted and corrected that Errour. <hi>(Inquire into the General Catalogue of Diſeaſes)</hi> where for ſufficient Rea<g ref="char:EOLhyphen"/>ſons,
+<pb n="6" facs="tcp:33977:4"/>I Struck out the firſt general <hi>Diviſion,</hi> out of that <hi>Liſt;</hi> as not being properly called <hi>Diſeaſes,</hi> but are <hi>Symptoms</hi> only: whereby a great <hi>Abatement</hi> is made and the Superfluous <hi>Number</hi> reduced to fewer by a third Part. I ſhall not repeat here the warrantable and ſufficient motives for ſo Doing; but refer you thither for Satisfaction.</p>
+               <p>
+                  <hi>Secondly;</hi> examining the <hi>Nature,</hi> and eſſential difference of <hi>Diſeaſes;</hi> I find moſt of them, at leaſt many; not to differ ſo much in <hi>Nature,</hi> as in <hi>Name;</hi> from Cir<g ref="char:EOLhyphen"/>cumſtances attending them, and makeing the <hi>Variegation:</hi> Therefore <hi>Diſeaſes;</hi> though very <hi>numerous</hi> as commonly denominated; yet will reaſonably, and advan<g ref="char:EOLhyphen"/>tagiouſly admit of a <hi>Reducement:</hi> By Contracting and aſſociating them into Com<g ref="char:EOLhyphen"/>pany's of <hi>Affinity;</hi> from their <hi>Humoral</hi> cauſes, iſſuing from one and the ſame Foun<g ref="char:EOLhyphen"/>tain: And then, <hi>Diſeaſes</hi> will not require ſuch variety of peculiar appropriated <hi>Medicines;</hi> nor ſuch diſtinct <hi>Methods</hi> of Cure, as commonly is now Practiſed, and appointed by <hi>Authors.</hi>
+               </p>
+               <p>Diſeaſes are <hi>unneceſſarily,</hi> and <hi>extravagantly</hi> multiplyed by <hi>Denomination:</hi> But they are not a quarter ſo many in their <hi>Radication:</hi> For, although <hi>Diſeaſes</hi> are made thus <hi>numerous</hi> and different by their <hi>Names;</hi> yet they have great <hi>Alliance,</hi> and are near of <hi>Kin,</hi> by their <hi>Origin,</hi> in their Cauſes of <hi>Production,</hi> and <hi>Conti<g ref="char:EOLhyphen"/>nuation.</hi>
+               </p>
+               <p>
+                  <hi>Circumſtances</hi> attending <hi>Diſeaſes,</hi> do often give, or are the occaſion of different <hi>Names:</hi> From different Parts affected, as <hi>Pleuriſy;</hi> From the manner of <hi>Invaſion,</hi> as <hi>Epilepſy. Apoplexy;</hi> From their Continuation, and Intermiſſions: As <hi>Feavers.</hi> From the <hi>manner</hi> of afflicting; as <hi>Convulſions.</hi> From <hi>Functions</hi> aboliſh'd, or depra<g ref="char:EOLhyphen"/>ved, as <hi>Palſy,</hi> and <hi>Tremor,</hi> &amp;c. Many ſuch differences.</p>
+               <p>The ſame <hi>Morbific</hi> Humour, roving up and down; <hi>infeſting</hi> and <hi>afflicting</hi> divers Parts of the Body, hath begot various <hi>nominal</hi> Diſeaſes: <hi>Rheumatiſm, Gout, Colic, Iliac Paſſion, Stitches, Cramps, Convulſions, Fluxes, Inflamations, Apoſtems,</hi> &amp;c.</p>
+               <p>The ſame Humoral matter that now makes the <hi>Gout;</hi> at another time produceth the <hi>Celic;</hi> ſome times a <hi>Flux;</hi> another time the <hi>Head</hi> Ach, or <hi>Tooth</hi> Ach, or ſomething elſe. And thus it happens in one ſingle Perſon.</p>
+               <p>So likewiſe in divers Perſons; the ſame <hi>Morbific</hi> Humor <hi>(in ſpecie)</hi> in kind, does make <hi>various</hi> Diſeaſes, and different <hi>Symptomatical</hi> appearances, according to the difference of <hi>Parts,</hi> in ſcituation and office; that this <hi>peccant</hi> matter ſhall moleſt and deprave.</p>
+               <p>Thus producing <hi>Several</hi> Diſeaſes, from the <hi>ſame</hi> Humoral Cauſe; but ſeemingly to <hi>vulgar</hi> underſtandings ſo diſtinct, as having no relation to each other: yet all theſe being <hi>bred,</hi> and <hi>fed</hi> from one degenerate matter, will admit of one and the ſame Cure, by a true <hi>radical Catholic</hi> Medicine, which applying to the <hi>Spring</hi> and <hi>Riſe</hi> of all theſe; does fitly perform the Cure of thoſe many Diſeaſes; having their <hi>Cauſation</hi> and <hi>dependance</hi> from one <hi>Original.</hi>
+               </p>
+               <p>So that <hi>Multiplicity</hi> of Diſeaſes in <hi>Appearance,</hi> does not neceſſarily require, <hi>Mul<g ref="char:EOLhyphen"/>tiplicity</hi> of <hi>Medicines,</hi> and <hi>methods;</hi> as ſome undiſcerning Heads may think; being deceived by various <hi>Names</hi> given to Diſeaſes, from Parts affected, and <hi>Functions</hi> depraved, or other <hi>Circumſtances</hi> attending.</p>
+               <p>
+                  <pb n="7" facs="tcp:33977:4"/>From hence you may Judge; that <hi>various Names,</hi> do not alwaies make ſuch <hi>various Diſeaſes;</hi> not ſo different, and diſtinct in their Cauſes, as Commonly repre<g ref="char:EOLhyphen"/>ſented, and Suppoſed to be. They are <hi>many,</hi> if you Judge of them by their Spread<g ref="char:EOLhyphen"/>ing <hi>Ramifications;</hi> but they are <hi>few (comparativè)</hi> in their <hi>Radication.</hi>
+               </p>
+               <p>And now you may plainly underſtand, this new <hi>Method</hi> of Curing <hi>Comprehenſively</hi> by a <hi>Catholic</hi> Medicine; to be rational, and probable to effect what many Diſeaſed People may deſire; and their various Complaints anſwered, by an <hi>Extraordinary</hi> ſingle Medicine.</p>
+               <p>
+                  <hi>Morbi multi unico Remedio curantur; Cujuſlibet enim Membri plaga, non habet peculiarem ſemper Cauſam; ſed ab uno eodemque, exiguo licet ſemine, plures ſurgunt affectus.</hi> Says a good Author. But moſt People muſt have a <hi>different</hi> Medicine, for every complaint that they have a <hi>Name</hi> for; elſe they think it not poſſible to cure them, and ridiculous to attempt it.</p>
+               <p>Medicine is not to be appropriated to <hi>Names;</hi> and to vary, as <hi>Names</hi> are varyed; but to the <hi>Nature</hi> and Condition of Diſeaſes, in their <hi>Cauſes:</hi> many of them being of the ſame kind, may be link'd together under one <hi>Denomination;</hi> and will admit of the ſ me <hi>Medicine,</hi> and <hi>Method</hi> of Curing.</p>
+               <p>Hereby the Practice of Phyſick, will not be ſo <hi>extravagantly</hi> large; but reduced into a much <hi>leſſer</hi> compaſs, and eaſily comprehenſible: The <hi>Intentions</hi> of curing but <hi>few;</hi> and the <hi>Number</hi> of <hi>Medicines</hi> not many: <hi>Succeſs</hi> therein more <hi>hopeful;</hi> with the <hi>Charge,</hi> and trouble more eaſy to <hi>Patients,</hi> in their courſes of Phyſick.</p>
+               <p>
+                  <hi>Nominal</hi> multiplicity of Diſeaſes, have amuſed the People; puzled young <hi>Practiſers</hi> to <hi>adapt</hi> Medicines differently to each: And the <hi>elder</hi> ſort, I doubt, are ſometimes <hi>miſled</hi> thereby.</p>
+               <p>
+                  <hi>Diverſity</hi> of Diſeaſes by <hi>Names</hi> only, or <hi>chiefly</hi> have begot <hi>Diverſity</hi> of <hi>Methods;</hi> and <hi>Diverſity</hi> of <hi>Medicines:</hi> The which have created much Buſineſs; employed more <hi>Hands;</hi> and conſumed more <hi>Drugs</hi> than was neceſſary.</p>
+               <p>To illuſtrate and prove what hath been ſaid; I ſhall give you ſome Examples. Take a <hi>Hundred</hi> Sick or Diſeaſed Perſons; examine them where their ſeveral Com<g ref="char:EOLhyphen"/>plaints do lye; what <hi>Parts</hi> are affected or grieved: Some complain of their <hi>Head;</hi> others their <hi>Breaſt,</hi> or <hi>Lungs:</hi> Some of the <hi>Stomach;</hi> others about the Region of the <hi>Liver;</hi> many of the <hi>Spleen;</hi> ſome the <hi>Guts;</hi> others the <hi>Limbs,</hi> &amp;c.</p>
+               <p>And for all theſe ſeveral Parts complaining; your Phyſician will give you vari<g ref="char:EOLhyphen"/>ous <hi>Names</hi> to diſtinguiſh them by; and peculiar <hi>Medicines,</hi> and different <hi>Methods</hi> of Curing: as in practical Authors, you may find ſuch like forms of Medicines, and Methods</p>
+               <p>Then Inquire of the ſame <hi>Authors,</hi> and ſee what Judgment they paſs, as touch<g ref="char:EOLhyphen"/>ing the <hi>Cauſes</hi> of all thoſe Diſeaſes, <hi>differently</hi> ſeated, and <hi>variouſly</hi> named: And you will find, that depraved <hi>Humours,</hi> and <hi>Obſtructions;</hi> are the general, and principal <hi>Cauſes</hi> aſſigned, for all thoſe Diſeaſes; though commonly reputed, as different in their <hi>Nature,</hi> as they are in their <hi>Names:</hi> From which miſtake, or Deluſion intended, the Recipe's have ſuperabounded.</p>
+               <p>If ſo, as true it is; then what ſhall hinder the <hi>Catholic Medicine,</hi> from being a proper and fit <hi>Inſtrument,</hi> to unbar and unbolt all theſe <hi>Obſtructions;</hi> and <hi>cleanſe</hi>
+                  <pb n="8" facs="tcp:33977:5"/>away all ſuch <hi>degenerate</hi> and depraved <hi>Humors,</hi> in this or that <hi>Part</hi> whereever they be? Then this <hi>Catholic Expedient</hi> ſtands as fair, and probable to cure a <hi>Hundred,</hi> or a <hi>Thouſand</hi> thus variouſly complaining; as the <hi>Hundreds,</hi> and <hi>Thouſands</hi> of Medicines, deſigned by <hi>appropriation,</hi> to every particular Perſon.</p>
+               <p>And farther I muſt add: That this often tryed, and long proved <hi>Medicine;</hi> in many ſuch difficult and different caſes, with laudable Operation, and Succeſs: muſt needs be more hopeful, than appropriated Medicines to every ones particular caſes, that never was tryed before; but every Sick or Diſeaſed Perſon, muſt make the <hi>Experiment,</hi> of their new invented Medicines.</p>
+               <p>People being thus greatly miſtaken; yet think themſelves very wiſe and wary, and well provided for; when they have purchaſed ſome conjectural appropriated Recipes, deviſed for their particular caſe; which particularity lies chiefly in Name; and not much different from the Diſeaſes of other Perſons. But for your further ſatisfaction in this point; as to the certainty and worth of Catholic and Appropriated Medicines; I refer you to another Tract <hi>(The Practice of Phyſick Reformed)</hi> which Informs you fully.</p>
+               <p>To Anſwer the <hi>Nominal</hi> and unneceſſary <hi>multiplicity</hi> of Diſeaſes; there are <hi>Thouſands</hi> of Medicines invented, and daily more are inventing. And for this purpoſe, we fetch in all the Venemous Weeds, Shrubs, and Minerals out of Foreign Countrys, to make <hi>variety</hi> of uncouth and unlucky Medicines; which you muſt think to be proper, for the many ſeveral Diſeaſes variouſly denominated; and peculiar for divers Perſons differently affected.</p>
+               <p>So that after tis <hi>Rate,</hi> of <hi>appropriating</hi> Medicines to <hi>Diſeaſes;</hi> and to <hi>Individual</hi> Perſons; <hi>Millions</hi> of Medicines, (for <hi>Millions</hi> of People) will be but ſufficient to ſupply the Practice of Phyſick, after this unreaſonable Mode.</p>
+               <p>And here I might upbraid and laugh at the World for their Folly; having loſt their underſtanding in this matter; and being impoſed upon beyond all Reaſon. But I'le wave the Subject at this time; hoping to ſee <hi>(tandem al quando)</hi> ſome <hi>Champton</hi> come forth; in <hi>Defence</hi> of this beloved Practice, ſo much do ed upon.</p>
+               <p>By what hath been ſaid, you may plainly perceive; that the great work of curing, many and divers Diſeaſes (ſuch as are Curable; and Perſons rightly endeavouring to be cured) lyes fair and probable to be effected, by the <hi>Catholic Medicine:</hi> The ſuperfluous <hi>Number</hi> of Diſeaſes being reduced; and the <hi>Nature</hi> of them being explained.</p>
+               <p>The Vital <hi>Catholic Agent</hi> (called <hi>Nature</hi>) having a true <hi>Catholic Inſtrument</hi> to act with; operates univerſally and powerfully againſt a <hi>Multitude</hi> of Diſeaſes: Performs the work of Curing, more readily and ſafely, with an amicable, well tryed, <hi>extraordinary</hi> Medicament; by a Phyſician's Induſtry, and <hi>long</hi> labour, compleated under his <hi>eye;</hi> than with a <hi>Number</hi> of Compoſitions conjecturally deviſed: Preſcripts tranſmitted to the Shops, to be made at a venture; who then can tell, what they may prove?</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="9" facs="tcp:33977:5"/>
+               <head>The Third Part.</head>
+               <p>IN the <hi>Firſt</hi> Part; having ſet forth the <hi>Power,</hi> and wonderful <hi>Operations</hi> of the <hi>Agent,</hi> or <hi>Efficient.</hi>
+               </p>
+               <p>In the <hi>Second</hi> Part; the <hi>Difficulty,</hi> and ſeeming <hi>Impoſſibility</hi> of the work; made <hi>probable</hi> and likely to be effected.</p>
+               <p>I come now in the <hi>last</hi> Place; to lay before you the <hi>Qualifications,</hi> and fitneſs of the <hi>Inſtrument,</hi> to apply exquiſitely in this undertaking.</p>
+               <p>The <hi>Catholic</hi> Medicine eminently declares its <hi>
+                     <g ref="char:V">Ʋ</g>niverſality;</hi> and properly bears that <hi>Title,</hi> in theſe <hi>two</hi> Reſpects.</p>
+               <list>
+                  <item>
+                     <hi>Firſt,</hi> as having a general <hi>Amity</hi> with <hi>Mankind;</hi> being moſt agreeable with <hi>Human</hi> Nature: Operating friendly, pleaſantly, and hopefully with <hi>All;</hi> diſguſting, or diſagreeing with <hi>none:</hi> But promoting all the neceſſary <hi>Operations;</hi> and aiding all the <hi>Functions,</hi> daily to be performed in <hi>Vital</hi> Government.</item>
+                  <item>
+                     <hi>Secondly,</hi> as having <hi>Enmity</hi> with all the <hi>Diſeaſes,</hi> of <hi>ſeminal</hi> and <hi>humoral</hi> Production in <hi>Man's</hi> Body: Allways, and in all caſes, ſhewing oppoſition there<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o; and proſecutes ſuch inbred ſecret Enemies to <hi>Human</hi> Life; conſtantly, and efficatiouſly.</item>
+               </list>
+               <p>The <hi>Reaſons</hi> why; and <hi>manner</hi> how; appears evidently; <hi>Firſt,</hi> by theſe <hi>two inſignal</hi> Properties; <hi>Aperitive,</hi> and <hi>Absterſive,</hi> wherewith it is primely endowed: which <hi>two</hi> grand Virtues, operating ſo clearly and fully; gives two ſuch <hi>killing</hi> Stroaks, at the very <hi>Root</hi> of all the <hi>Seminal</hi> and <hi>Humoral</hi> Diſeaſes; that the <hi>Buds, Bloſſoms,</hi> and <hi>Branches</hi> fed from thence, appearing variouſly, and in divers <hi>Parts</hi> of the Body; do ſoon wither, decay and Dye.</p>
+               <p>
+                  <hi>Apertion,</hi> and <hi>Abſterſion;</hi> are the two <hi>principal</hi> Operations, both <hi>preventive</hi> and <hi>curative;</hi> againſt a <hi>multitude</hi> of Diſeaſes; if performed by ſuch due means, as is required to do that work, as it ought to be done.</p>
+               <p>The common reputed <hi>Purgatives</hi> (venenous <hi>Stimulators</hi>) they do open the back Door; they rake and empty the Body; and ſometimes alleviation does follow: But what then? they carry a <hi>Sting</hi> in the <hi>Tail;</hi> they leave ſome ill impreſſions behind them, that ſtain and vitiate the Body, which lyes breeding for another production; and in a little time you muſt <hi>Purge</hi> again for that; and this is labouring in a <hi>Circle,</hi> and find no <hi>end.</hi> If you <hi>Purge,</hi> and not <hi>Purify;</hi> much of your labour is loſt.</p>
+               <p>The <hi>Catholic</hi> Medicine is no ſuch <hi>Deceiver;</hi> but a <hi>faithful</hi> Servant, that keeps ſweet and clean all the <hi>Apartments, Canals,</hi> and <hi>Offices</hi> in the Body: Opens all the <hi>Auguſt</hi> Obſtructed <hi>Dictures,</hi> and private <hi>Receſſes;</hi> lets no Filth abide in any place
+<pb n="10" facs="tcp:33977:6"/>to annoy, or impede the <hi>Vital Spirit</hi> in diradiating its <hi>Influence,</hi> to all the <hi>Regions</hi> and <hi>Parts</hi> thereof; which will ſave the daily labour of dreſſing ſtinking <hi>Iſſues,</hi> that many are conſtrained to, for a diſcharge of putrid <hi>Humors.</hi> And farther; we may rationally expect from thence; a more <hi>Sound,</hi> and <hi>Healthful</hi> Progeny in the World, than theſe latter Days do produce, from Parents of <hi>degenerate,</hi> and <hi>corrupt</hi> habit of Body.</p>
+               <p>There can no better <hi>Expedient</hi> in Phyſick be contrived, to <hi>Preſerve</hi> Bodies from <hi>Diſeaſes;</hi> and to Help them out of <hi>Diſeaſes;</hi> than this ſecure wholſom <hi>Medicine;</hi> that ſo truly and effectually, performs the two grand offices of <hi>Apertion,</hi> and <hi>Ab<g ref="char:EOLhyphen"/>ſtertion.</hi>
+               </p>
+               <p>For theſe two eminent <hi>Virtues,</hi> purely united in one wholſom <hi>Compoſition;</hi> they always are attended, and adorned with other <hi>Conſorts</hi> of great worth; which fol<g ref="char:EOLhyphen"/>low one another inſeparably; the one, making way for the other.</p>
+               <p>
+                  <hi>Apertion</hi> leads foremoſt; <hi>Abſterſion</hi> follows, and introduceth <hi>Purity;</hi> this uſhers in <hi>Healing,</hi> and <hi>ſoundneſs</hi> to come after; then <hi>Roboration</hi> and vital <hi>Vigour,</hi> follows at the heels of theſe <hi>Praecurſors;</hi> And after this manner Infirm <hi>Diſeaſed</hi> Bodys, and Parts thereof; are reſtored to their <hi>Natural</hi> State; and made able to execute their <hi>Functions;</hi> by the ſtrength of this <hi>Chain</hi> of Virtues, link'd together in de<g ref="char:EOLhyphen"/>pendency, to produce great effects.</p>
+               <p>Thus the <hi>Catholic</hi> Medicine aſſiſts the Life, to perform many and various <hi>Opera<g ref="char:EOLhyphen"/>tions;</hi> and rationally it may be expected, that many and various <hi>Diſeaſes</hi> ſhould be corrected, and conquered thereby. And therefore it is not ſo improbable as ſome do imagine; that a <hi>ſingle</hi> Medicine, ſhould have ſo large a <hi>capacity</hi> and <hi>comprehenſive</hi> Power, to command and ſubdue, many <hi>different</hi> Diſeaſes, in <hi>divers</hi> Perſons; ſince it is endowed with ſuch a <hi>complication</hi> of the choiceſt Phyſical <hi>Virtues.</hi>
+               </p>
+               <p>The Vital <hi>Principle</hi> being thus diſintangled, and freed from obſtructing <hi>matter,</hi> and humoral <hi>Impurity;</hi> recovers <hi>Strength</hi> and <hi>Vigour</hi> thereby, and conquers the ma<g ref="char:EOLhyphen"/>ny various <hi>Diſeaſes,</hi> ariſing from <hi>Debility, laxation</hi> of Parts; and <hi>Stimulating</hi> mat<g ref="char:EOLhyphen"/>ter: which includes a great number of Diſeaſes; if by <hi>Name</hi> particularly they were reckoned.</p>
+               <p>Wherefore it is not ſo ſtrange; that a <hi>Medicine</hi> ſhould be deſigned <hi>Catholic,</hi> for curing <hi>divers</hi> and <hi>contrary</hi> Diſeaſes; ſince the ſame <hi>Cauſes (in ſpecie)</hi> do produce <hi>dif<g ref="char:EOLhyphen"/>ferent</hi> and <hi>Contrary</hi> effects in <hi>ſeveral</hi> Perſons, or Subjects they operate upon: that which begets <hi>Obſtruction,</hi> and <hi>Aſtriction</hi> in ſome; produceth <hi>Debility</hi> of <hi>Retention,</hi> and <hi>Laxation</hi> in others. <hi>Quicquid recipitur, recipitur per modum recipientis:</hi> The Sun hardens the Clay, but ſoftens the Wax. This Radical <hi>Inſtrument</hi> applying to <hi>Cauſes,</hi> for their removal in all Bodyes; which being <hi>ſubtracted;</hi> their various <hi>effects</hi> do vaniſh alſo; whether they be <hi>contrary,</hi> or <hi>conſimilar:</hi> Which unfolds the <hi>Myſtery</hi> of curing <hi>comprehenſively;</hi> Diſeaſes being the product <hi>effects,</hi> are <hi>multifa<g ref="char:EOLhyphen"/>rious;</hi> when <hi>cauſes</hi> producing, are not half ſo <hi>various.</hi>
+               </p>
+               <p>Conſider alſo; that the <hi>variety,</hi> or <hi>multiplicity</hi> and <hi>difformity</hi> of Diſeaſes; do not proceed ſo much different and diſſimilar, from the <hi>diverſity</hi> of <hi>fluxile</hi> humoral, and degenerate <hi>Matter;</hi> as from <hi>Structure</hi> and <hi>Fabrication;</hi> from the Diverſity of <hi>Organs,</hi> and the <hi>Difference</hi> of their <hi>Offices.</hi> Therefore <hi>one</hi> and the <hi>ſame</hi> depraved
+<pb n="11" facs="tcp:33977:6"/>
+                  <hi>matter,</hi> as it perambulates, or lodgeth; infeſting <hi>ſeveral Parts</hi> of the Body; does thereby beget Diſeaſes of <hi>various Names,</hi> differently <hi>appearing,</hi> and differently <hi>moleſting:</hi> what then ſhall hinder the <hi>Catholic</hi> Medicine, from performing its <hi>univer<g ref="char:EOLhyphen"/>ſal</hi> Office in Curing?</p>
+               <p>Now obſerve who it is that manageth this comprehenſive <hi>Inſtrument:</hi> The Vital <hi>Principle;</hi> A Cathoſic <hi>Agent;</hi> of <hi>ubiquitary</hi> Preſence, in the <hi>Machine</hi> of Human Body: That operates <hi>variouſly,</hi> and <hi>contrarily,</hi> at one and the ſame time, in ſeve<g ref="char:EOLhyphen"/>ral places; yet <hi>conſentaneouſly</hi> for the whole: <hi>Opens</hi> and <hi>Shuts; expels</hi> and <hi>retains; Liquifies</hi> and <hi>Coagulates,</hi> &amp;c. in the daily Courſe, and Adminiſtration of <hi>Govern<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>Conſider alſo the multifarious <hi>Qualifications</hi> of this Phyſical <hi>Expedient:</hi> Not for<g ref="char:EOLhyphen"/>cing and compelling; but flexible and gentle, complacent and complying with the <hi>Regent Principle;</hi> to be conveyed here or there <hi>(materialiter vel virtualiter)</hi> and is made uſeful, as the Caſe requires: yielding up ſuch Virtue, as Nature <hi>(Morborum Medicatrix)</hi> ſtands in need of: In like manner as the ſame <hi>Aliment</hi> is converted to <hi>various</hi> uſes; ſo one <hi>Catholic Medicament,</hi> is applyed to various <hi>purpoſes. Nature</hi> directs, and hands the <hi>Medicine</hi> here and there; to work <hi>what</hi> and <hi>how</hi> ſhe plea<g ref="char:EOLhyphen"/>ſeth.</p>
+               <p>And now I have proved ſufficiently, and explained this <hi>Myſtery:</hi> that Catholic <hi>Adaptation,</hi> rightly inſtituted for Diverſity of <hi>Perſons;</hi> and Diverſity of <hi>Diſeaſes;</hi> is the ſafety of the <hi>Catholic</hi> above the <hi>Appropriate;</hi> that it is a Tryed, and well proved Medicine with <hi>many:</hi> But the Appropriated to a ſingle <hi>Perſon</hi> and <hi>Caſe;</hi> is an uncertain Chance Medicine; becauſe not experimented by <hi>any;</hi> but conjectural<g ref="char:EOLhyphen"/>ly preſumed at a Venture; being deſigned and formed for the occaſion preſenting. And yet this is eſteemed a ſafe and learned <hi>Invention;</hi> for the <hi>great</hi> and the <hi>rich,</hi> to truſt their <hi>Lives</hi> with.</p>
+               <p>Let the <hi>World</hi> dote on; and the <hi>Sham</hi> be their <hi>Help</hi> when they need: Let <hi>Ig<g ref="char:EOLhyphen"/>norance</hi> and <hi>Errour</hi> manage their Cures; <hi>ſic Populus vult decipi, &amp; decipiatur.</hi>
+               </p>
+               <p>I need not tell you now all the Diſeaſes by <hi>Name;</hi> that this <hi>Medicine</hi> is proper for, and effectual: Sufficient it is, and more ſatisfactory that I have ſhewed you how it oppoſeth the moſt of them, in their <hi>Nature</hi> and <hi>Cauſes:</hi> whereby you may truſt your own <hi>Reaſon,</hi> and not my bare <hi>aſſertion.</hi> But ſome ſort of People, that know nothing of <hi>Diſeaſes,</hi> but their <hi>Names,</hi> will ſay, you have not told us what Diſeaſes, this <hi>Catholic Medicine</hi> will Cure.</p>
+               <p>To gratify the Deſire of thoſe weaker underſtandings, I ſhall give in a parti<g ref="char:EOLhyphen"/>cular <hi>Account</hi> of many, by their <hi>Names</hi> commonly ſo called.</p>
+               <p>For the <hi>Vertigo, Epilepſy, Apoplexy,</hi> and <hi>Convulſions;</hi> a proper effectual Remedy applying to their Cauſes.</p>
+               <p>Allays Pains of the <hi>Head,</hi> or <hi>Limbs; Rheumatiſm</hi> and <hi>Gout:</hi> And is the moſt ſecure <hi>Anodyne,</hi> becauſe it draws off <hi>morbific</hi> matter; and frees the Body from, <hi>acrid, ſharp,</hi> and <hi>corroding</hi> Humors.</p>
+               <p>Corrects and amends ill <hi>Digeſtion</hi> of the <hi>Stomach;</hi> ſharpens a blunt <hi>Appetite;</hi> re<g ref="char:EOLhyphen"/>moves <hi>Nauſeouſneſs,</hi> and <hi>fullneſs.</hi>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:33977:7"/>For <hi>Aſthma</hi>'s, <hi>Coughs,</hi> Wheeſing and ſhort <hi>Breathing:</hi> very prevalent.</p>
+               <p>Againſt unweldy <hi>Corpulency, Dropſys, Scurvy, Jaundice,</hi> inflation of the <hi>Spleen, Hypochondriac</hi> Melancholy, hard and big <hi>Bellyes:</hi> approved and applauded herein: Takes away fullneſs, and foulneſs of Body; diſchargeth gradually, ſafely, and cleanſeth effectually.</p>
+               <p>A certain <hi>Preventive</hi> againſt the Production of <hi>Worms</hi> in Human Bodyes: By pu<g ref="char:EOLhyphen"/>rifying and evacuating <hi>Verminous, putrid</hi> matter of which they are bred. Alſo the beſt <hi>curative</hi> Remedy, to kill <hi>Worms</hi> already generated; and to bring them forth. They often being the <hi>cauſe</hi> of dangerous <hi>Sickneſs.</hi>
+               </p>
+               <p>Gives ſpeedy eaſe in the <hi>Colic,</hi> and <hi>Gripes</hi> of the <hi>Guts.</hi> Reſtrains all violent and contumacious <hi>Fluxes:</hi> The moſt certain Help above all <hi>Methods,</hi> and <hi>Medicines</hi> in this Caſe: For if any Phyſical means, may deſerve the Title of <hi>Infallible</hi> againſt <hi>Gripes</hi> and <hi>Fluxes;</hi> this <hi>Remedy</hi> may bear that Character. And had this Medicine gone over with the <hi>Army</hi> in the late expedition for <hi>Ireland</hi> (as was endeavoured) it had preſerved many <hi>Hundred</hi> Lives, that periſhed miſerably, for want thereof: This <hi>ſingle Medicine,</hi> would have done more ſervice; than all the Medicines (for internal uſe) that were ſent over to ſupply the <hi>Army:</hi> But private intereſts, and particular favour<g ref="char:punc">▪</g> too oft ſtifles a publick Good.</p>
+               <p>
+                  <hi>Epidemical</hi> depopulating <hi>Fluxes,</hi> have infeſted <hi>Armyes</hi> in all Countreys; both in their <hi>Camps,</hi> and <hi>Marches:</hi> (the <hi>Reaſons</hi> why; are many; and <hi>Cauſes</hi> unavoidable) which have ſo weakned the ſtrength of the ſurviving; and ſhrunk their <hi>Number</hi> by Mortallity; that their preſent <hi>Deſigns</hi> and <hi>Enterprizes</hi> have been checkt and fruſtra<g ref="char:EOLhyphen"/>ted. The only expedient to be fought for; is a certain <hi>Preſervative,</hi> to ſtop the beginning, and prevent the <hi>Mortality:</hi> which to perform; I do believe, nothing in <hi>Nature</hi> and <hi>Art</hi> (grounded upon Experience) is equivalent to this <hi>Catholick Ar<g ref="char:EOLhyphen"/>canum:</hi> And doubtleſs would readily be accepted, and much eſteemed by Foreign <hi>Princes,</hi> (if only for this caſe) though perhaps may not ſo much be regarded here at <hi>Home,</hi> as it juſtly merits: But many <hi>Lives</hi> are loſt, by the want of ſuch a <hi>Remedy.</hi>
+               </p>
+               <p>'Tis the beſt Help for weak <hi>Backs, Loyns,</hi> or <hi>Genitals:</hi> for <hi>Strains,</hi> and over-<hi>Reaches;</hi> for <hi>Spermatic</hi> waſting, and <hi>Seminal</hi> iſſuing: To ſtay the <hi>Whites</hi> ſafely, by <hi>cleanſing, purifying,</hi> and <hi>roborating.</hi>
+               </p>
+               <p>To purge <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oul <hi>Reins, <g ref="char:V">Ʋ</g>reters,</hi> and <hi>Bladder;</hi> that ſend forth ſtrong ſcented, thick or muddy <hi>
+                     <g ref="char:V">Ʋ</g>rine.</hi> This purifyer, reſtores the <hi>Parts</hi> to cleanneſs, and ſoundneſs, and corrects the former ill effects.</p>
+               <p>For <hi>Claps</hi> and <hi>Venereal</hi> Taints, producing hot and ſharp <hi>
+                     <g ref="char:V">Ʋ</g>rine,</hi> or running of the <hi>Reins:</hi> nothing Cures more <hi>certainly</hi> and <hi>ſafely;</hi> and may be managed with great <hi>Privacy.</hi> This tells no Tales; but ſmothers ſuch misfortunes, by ſpeedy eaſe and Help.</p>
+               <p>Very uſeful to promote <hi>external Chirurgical</hi> Cures; by drawing off, and evacua<g ref="char:EOLhyphen"/>ting all humoral offending matter; thereby diſpoſing <hi>Nature</hi> to <hi>Heal;</hi> elſe <hi>external</hi> applications avail little: But for curing <hi>Wounds, Contuſions, Apoſtems, <g ref="char:V">Ʋ</g>lcers,</hi> &amp;c. internal; this <hi>Medicine</hi> alone does all the Work; and acts a dexterous <hi>Surgeons</hi> part, in ſuch ſecret places, where neither his <hi>Eye</hi> can Diſcern, nor his <hi>Hand</hi> come to Dreſs you: then this Sovereign <hi>Remedy</hi> is more helpful, and more to be de<g ref="char:EOLhyphen"/>pended
+<pb n="13" facs="tcp:33977:7"/>on, than all the <hi>Practiſers</hi> in Phyſick and Surgery: And is therefore the moſt <hi>neceſſary</hi> and important <hi>Medicament,</hi> to ſerve in <hi>Navies, Armies</hi> and <hi>Hoſpitals;</hi> moſt commodious and ready; eaſily managed by the meaneſt Capacities; perform<g ref="char:EOLhyphen"/>ing ſingly and ſecurely; above all the uncertain <hi>Methods,</hi> and <hi>multiplicity</hi> of Medi<g ref="char:EOLhyphen"/>cines, appointed by <hi>Authors,</hi> or uſed by <hi>Practicers: Experto Crede.</hi>
+               </p>
+               <p>For all ſorts of <hi>Fevers;</hi> of various and obſcure <hi>dependencyes;</hi> this is the moſt confiding means to rely on; as <hi>radically</hi> applying to their ſeveral <hi>Cauſes,</hi> and <hi>Parts</hi> primarily affected. <hi>Fevers</hi> known to the World, but by <hi>Name</hi> only; therefore blindly and perniciouſly proſecuted, by <hi>Juleping, Blistering,</hi> &amp;c. of fatal conſe<g ref="char:EOLhyphen"/>quence to many <hi>Thouſands</hi> of Sick People. The <hi>Fleet</hi> Fevers, and <hi>Camp</hi> Fevers; that ſlays more Men ſometimes than the <hi>Enemy,</hi> by ſuch erroneous <hi>Methods,</hi> and in<g ref="char:EOLhyphen"/>jurious <hi>means,</hi> or inſufficient <hi>means,</hi> which is their beſt Help. But of this in another Tract. <hi>Ignota Febris,</hi> Fevers miſtaken, <hi>&amp;c.</hi>
+               </p>
+               <p>Sir <hi>William Huſſy,</hi> his <hi>Majesties</hi> Embaſſadour to the <hi>Port;</hi> unfortunatly (to the <hi>Confederats</hi> great loſs) Dyed at the point of his Negotiating a <hi>Peace:</hi> And the report came, that he dyed of a <hi>Feaver:</hi> which is no better Satisfaction to me; than he Dyed of they knew not what: for none dyes of a <hi>Fever;</hi> though few dyes without a <hi>Fever: Febris eſt Symtoma morbi, Solummodo. Febrile Heat,</hi> is no Diſeaſe; but a <hi>Symptom</hi> dependant thereon. I remark from thence; that his <hi>Help,</hi> and his <hi>Helpers;</hi> were but mean: And if they miſtook the <hi>State</hi> of his Caſe; that it was a <hi>Fever;</hi> and proſecuted upon that <hi>Notion,</hi> (as reported) then there was a great <hi>Miniſter</hi> loſt; and a great <hi>Affair</hi> miſcarryed thereby. And how many brave Men, have dyed here at <hi>Honie;</hi> by the great miſtake of <hi>Phyſitians,</hi> not knowing what a <hi>Fever</hi> is? The Account to great for me to Summ up.</p>
+               <p>This <hi>Catholic,</hi> is a proper good <hi>Medicine</hi> for a Diſeaſe that hath <hi>no Name;</hi> and for a Diſeaſe that hath a <hi>wrong Name:</hi> This ſeeks out, and finds out; <hi>(ductu Natu<g ref="char:EOLhyphen"/>re)</hi> when the <hi>Phyſitian</hi> knows not, <hi>what</hi> the <hi>Matter</hi> is; nor <hi>where</hi> it is. When he groaps in the <hi>Dark,</hi> and knows not where to <hi>aim:</hi> This knows the way (by Na<g ref="char:EOLhyphen"/>tur's guidance) goes readily, and rightly about the buſineſs. This will not be de<g ref="char:EOLhyphen"/>luded with <hi>Fevers,</hi> (as Practiſers have been) But finds out their <hi>Dependancies;</hi> and diſchargeth its <hi>virtue</hi> there. If you ſend this Medicine upon a <hi>wrong</hi> Errand; it will act, not as you <hi>intended;</hi> but as it <hi>ought</hi> to be done. <hi>Nature medicatrix</hi> amicably receiving this good Aſſiſtance; directs it <hi>here</hi> or <hi>there,</hi> (as the <hi>Caſe</hi> requires) and the <hi>Giver,</hi> hath no more <hi>Power</hi> of the Medicine afterwards.</p>
+               <p>For various ſuddain <hi>Hamorrhages,</hi> Bleedings; iſſuing from divers parts of the Bo<g ref="char:EOLhyphen"/>dy: This <hi>mitigats, retracts,</hi> and <hi>evacuats</hi> their Stimulating <hi>Cauſes.</hi>
+               </p>
+               <p>This is both <hi>Phyſick</hi> and <hi>Phyſitian;</hi> and <hi>Surgeon</hi> too, in ſome Caſes; ready and ſafe Aſſiſtance for <hi>Travellers</hi> by <hi>Land</hi> or <hi>Sea:</hi> a great Security to them upon <hi>emergent</hi> occaſions and accidents</p>
+               <p>For <hi>Country</hi> Inhabitants, that live remote from Phyſick, and Phyſitians; This is <hi>neceſſary</hi> Proviſion: The <hi>Phyſitian</hi> may be long in comeing; and after that, <hi>Medi<g ref="char:EOLhyphen"/>cines</hi> may be long in <hi>Preparing,</hi> and <hi>Coming:</hi> In the mean time the <hi>Patient</hi> may be wrackt with <hi>Fain;</hi> half ſpent, or paſt <hi>Recovery;</hi> and then the long look'd for <hi>Phyſick,</hi> Comes at laſt.</p>
+               <p>
+                  <pb n="14" facs="tcp:33977:8"/>The <hi>Old</hi> way of <hi>Practice,</hi> was the <hi>good</hi> way; when <hi>Phyſick</hi> and <hi>Phyſitian</hi> liv'd to<g ref="char:EOLhyphen"/>gether; and went <hi>abroad</hi> together: but now he is <hi>diſarm'd;</hi> and become a <hi>naked, talking</hi> Man; able to do nothing, without the Help of a <hi>Pothecary.</hi>
+               </p>
+               <p>For <hi>Practiſers,</hi> that are not <hi>Preſcribers;</hi> this Medicine will do them great <hi>Service;</hi> and <hi>Credit,</hi> by effecting what the <hi>Common</hi> known Medicines cannot do, in dubious and difficult Caſes; which ſome ingenious men have experienced to their Advan<g ref="char:EOLhyphen"/>tage; and do make uſe hereof.</p>
+               <p>This is a great Help to <hi>antient</hi> People; for making their lives more eaſy and Comfortable: <hi>Age</hi> commonly being attended with Infirmities, that does afflict them: Their Bodyes being grown <hi>Stale</hi> and <hi>Sour,</hi> producing <hi>Rheums, Coughs,</hi> ſhort <hi>Breath,</hi> ſharp <hi>Urine, Aches,</hi> and other decayes of Nature; againſt which this Medicine will give them much aſſiſtance, and mitagate their Complaints; being the beſt expedient immaginable to <hi>Repair,</hi> and <hi>Mend</hi> old Bodyes; that they may be ſerviceable a longer time.</p>
+               <p>Hability and Soundneſs of Body; promotes the <hi>Durability,</hi> and <hi>Prolongation</hi> of the Life: For if the <hi>vital Spirit</hi> labours under corporal impediments, and unfitneſs for uſe in <hi>Goverment;</hi> by ſo much is the <hi>Life</hi> abbreviated in Duration.</p>
+               <p>For <hi>Admirals, Generals,</hi> and great <hi>Officers:</hi> For <hi>Embaſſadors, Envoys,</hi> and <hi>Reſidents;</hi> whoſe lives are of great importance to <hi>Princes,</hi> and <hi>publick</hi> Safety; upon their <hi>En<g ref="char:EOLhyphen"/>terprizes,</hi> and <hi>Negotiations:</hi> This is <hi>Cabinet</hi> Help, above all they can procure in <hi>forreign</hi> Country's; or what they can purchaſe at <hi>Home,</hi> to carry with them, as <hi>Ex<g ref="char:EOLhyphen"/>traordinary</hi> means when they ſtand in need. There may be a good <hi>Phyſitian</hi> ready at Hand; but ſo <hi>good</hi> and ſecure a <hi>Medicine,</hi> may be too <hi>farr</hi> off: And then ſome ſuddain deviſed <hi>Compoſitions;</hi> haſty, new made, untryed <hi>Medicins;</hi> muſt be truſted with the <hi>Patient's</hi> Life at a venture, and it is all but <hi>venture:</hi> In the <hi>Patient's</hi> good <hi>Fate,</hi> is the greateſt Hope of <hi>Recovery.</hi> And this is the general common Caſe, in the new <hi>Mode</hi> of <hi>Preſcribing;</hi> The uncertainties whereof, I have fully proved elſe<g ref="char:EOLhyphen"/>where. <hi>The Practice of Phyſick Reformed,</hi> &amp;c.</p>
+               <p>I am not a ſtranger to <hi>Methods,</hi> or <hi>courſes</hi> of Phyſick, and do uſe them, when the <hi>Patient</hi> will, and can conform thereto: But ſome are averſe to <hi>variety</hi> of Medicines in a <hi>Method;</hi> others cannot ſpare <hi>time</hi> to be confined; and ſome cannot bear the <hi>Charge:</hi> To ſuch this <hi>Expedient</hi> is moſt commodious Help; and gives the greateſt <hi>liberty</hi> in the uſe thereof; except great <hi>weakneſs,</hi> or extremity of <hi>weather,</hi> forbids that freedom.</p>
+               <p>I Hope no Perſon hath ſuch mean thoughts of me, as to think, I would put a Sham upon the world; with the loſs of Reputation irrecoverably. This Medicine begs no <hi>Favour;</hi> and fears no <hi>Frowns: ſtabit examini Cuicunqe.</hi> But I will rather think (what I may deſerve) that I ſhall have many <hi>thanks,</hi> and well <hi>wiſhes</hi> for this <hi>Labour,</hi> from divers <hi>Diſeaſed,</hi> and <hi>Sick</hi> Perſons; that will find the Benefit and great Advan<g ref="char:EOLhyphen"/>tage, by this Health <hi>preſerving;</hi> and Health <hi>recovering</hi> Medicine; as others have happily received before them: Some eminent Cures whereof; are related in an <hi>Appendix</hi> to <hi>Monarchia Microcoſmi;</hi> which I ſhall not repeat here, but referr you thither for Satisfaction.</p>
+               <p>I have veiwed thouſands of Medicines in <hi>Pharmacopoeia's,</hi> practical <hi>Authors,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>nuſcripts,
+<pb n="15" facs="tcp:33977:8"/>Chymical and Galenic;</hi> and took obſervations upon their failings. But I never met with any <hi>Deſignment</hi> of that <hi>latitude</hi> and <hi>Comprehenſion;</hi> ſo <hi>Congruouſly</hi> and <hi>regularly</hi> Compoſed: ſo <hi>wholeſom, innocent,</hi> and agreeable to <hi>Human</hi> Nature; ſo <hi>efficatious</hi> and <hi>powerful,</hi> againſt the various <hi>Radications,</hi> and Surpriſing <hi>aſſaults</hi> of Diſeaſes: of ſuch <hi>certainty</hi> and <hi>ſafety</hi> in <hi>Operation;</hi> ſo <hi>Commodious</hi> for <hi>uſe,</hi> ready, and <hi>durable;</hi> as this <hi>Catholic Extract:</hi> Not eaſily and fortunatly found by <hi>Reading;</hi> but by <hi>Deſigning</hi> and <hi>working.</hi> The perfection whereof, was not the work of a <hi>Day,</hi> nor a <hi>Year;</hi> to prove, and improve this Medical <hi>Inſtrument:</hi> But Studious <hi>thoughts,</hi> and conſtant <hi>labour</hi> in various <hi>tryals,</hi> for many <hi>Years</hi> Proſcecution; hath endowed it with ſuch <hi>Sovereign virtues,</hi> and excelling <hi>Properties;</hi> as juſtly Claims <hi>Supremacy</hi> in Phyſick: And until <hi>Nature</hi> produceth a new <hi>Materia Medica;</hi> I believe we ſhall not be <hi>Blest</hi> with a <hi>better</hi> Medicine; and perhaps not ſo <hi>good,</hi> as this; in all <hi>reſpects.</hi>
+               </p>
+               <p>This hopeful, and helpful Medicine; puts a ſtop to the latent, dangerous Progreſs of Pain, to Inflamations, Tumors, Apoſtems, <hi>&amp;c.</hi> Internal: The moſt frequent <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ain of mortal Diſeaſes; which hath brought more to the Grave than any Complication, or Commutation of Diſeaſes what ever; becauſe rarely diſcovered or Sought after, but when too late; by Diſſection of the Dead. Of which more at <hi>large,</hi> I have Treat<g ref="char:EOLhyphen"/>ed, <hi>peculiarly</hi> upon this <hi>important</hi> Subject: Shewing the <hi>Cauſes</hi> of <hi>Inadvertency;</hi> and <hi>fatal</hi> Conſequents, of not <hi>diſcerning</hi> that lurking <hi>Series.</hi>
+               </p>
+               <p>This <hi>Catholic</hi> Expedient being ſo neceſſary, and uſeful for <hi>Publick</hi> Help; ought not to be confined within a <hi>Private</hi> Practice; which occaſions this Publication: And may be received from the Author, upon Application: or from the Hands of ſome other <hi>Perſons,</hi> with whom it is intruſted for conveniency; with Inſt<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>ns for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> uſe thereof. The <hi>Quantity</hi> Containing about half a Score Doſes; to give a ſuffici<g ref="char:EOLhyphen"/>ent, and Satisfactory <hi>Tryal</hi> of its <hi>Virtue</hi> in any contumatious Diſeaſe: And may be Continued, or intermitted, as every one's Caſe ſhall require; for a longer, or ſhorter time; as common Reaſon will dictate and inform; from the Benefit daily received; and what ſhall remain to be perfected.</p>
+               <p>Great is the <hi>Myſtery</hi> of Curing <hi>Comprehenſively:</hi> And great is the <hi>Expedient</hi> to anſwer that Projection. And greatly to be eſteemed, for the <hi>extraordinary</hi> Benefits, accruing to People, of all Conditions, and Quality; that ſhall have the good Fortune to Experience the various <hi>Properties</hi> thereof; adapt for their ſeveral <hi>Complaints,</hi> and Exigencies. So eaſy to be managed; ſo ſafe, gentle and pleaſant in Operation; that nothing hitherto, hath performed like it.</p>
+               <p>If any <hi>Learned</hi> Man; <hi>Phyſitian</hi> or <hi>Other,</hi> will offer Objections to any <hi>Truth</hi> herein aſſerted: The <hi>Author</hi> promiſeth an Argumentative fair <hi>Reply</hi> of Conviction; by traverſing and clearing ſuch Doubts, and Difficulties that may be Started, out of the Common known <hi>Learning;</hi> to which this <hi>Diſcourſe</hi> is <hi>Forreign,</hi> and <hi>Independent;</hi> being founded upon Sounder <hi>Principles:</hi> That the <hi>World</hi> may be Satisfied of the <hi>Verity,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>ſefulneſs,</hi> of this Work; for an eſtabliſhment to Perpetuity: Not as a <hi>Remedy</hi> from Dying; but as the beſt of Phyſical <hi>Means;</hi> for <hi>well,</hi> and <hi>long</hi> Living. Experience and <hi>Tryals</hi> whereof; will <hi>ſilence</hi> all Reaſoning that ſhall be brought againſt it.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>London, Grays Inn Lane,</hi> by <hi>Kings-Gate.</hi>
+               </dateline>
+               <signed>E.M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="by_the_same_author">
+            <pb facs="tcp:33977:9"/>
+            <head>Advertiſement.</head>
+            <list>
+               <item>Monarchia Microcoſmi. The <hi>Origin, Viciſſitudes,</hi> and <hi>Period,</hi> of Vital Government in Man.</item>
+               <item>The frequent and dangerous Tranſition of <hi>Pains,</hi> to <hi>Inflammation, Tumors, Apoſtems, <g ref="char:V">Ʋ</g>lcers, Cancers, Gangrens,</hi> and <hi>Mortifications,</hi> Internal, &amp;c. with a Tract of <hi>Fontanels</hi> or <hi>Iſſues.</hi>
+               </item>
+               <item>A Treatiſe of the <hi>Scurvey:</hi> Shewing the various <hi>Nature,</hi> and <hi>Cure</hi> thereof.</item>
+               <item>The Hiſtory and Myſtery of the <hi>Venereal Lues, Gonorrhaea's,</hi> &amp;c. Reſolving the <hi>Doubts</hi> and <hi>Fears</hi> of ſuch as are perplexed with that Surpriſing <hi>Malady.</hi>
+               </item>
+               <item>A Treatiſe of <hi>Conſumptions;</hi> Scorbutic <hi>Atrophies,</hi> Hectick <hi>Fevers,</hi> Phthiſick, Spermatic waſting, <hi>&amp;c.</hi>
+               </item>
+               <item>The Compleat Phyſician; Setting forth the <hi>Riſe</hi> and <hi>Progreſs</hi> of Phyſick, <hi>&amp;c.</hi>
+               </item>
+               <item>The <hi>Method</hi> and <hi>Means,</hi> of enjoying <hi>Health, Vigor</hi> and long <hi>Life.</hi>
+               </item>
+               <item>Inquiries into the general <hi>Catalogue</hi> of <hi>Diſeaſes:</hi> Shewing the <hi>Errors</hi> and <hi>Contradictions</hi> of that Eſtabliſhment.</item>
+               <item>The <hi>Ancient</hi> and <hi>Modern</hi> Practice of <hi>Phyſick,</hi> examined and compared.</item>
+               <item>Ignota Febris. Fevers miſtaken in <hi>Doctrin</hi> and <hi>Practice,</hi> &amp;c.</item>
+               <item>The <hi>Practice</hi> of <hi>Phyſick</hi> Reformed; By Elaborate, <hi>Catholick,</hi> and <hi>Specifick</hi> Medicines: Excelling Ap<g ref="char:EOLhyphen"/>propriated Conjectural <hi>Preſcripts,</hi> in Certainty and Safety.</item>
+            </list>
+            <p>All writ by the <hi>Author</hi> hereof.</p>
+         </div>
+         <div type="errata">
+            <p>Errata. <hi>P.</hi> 5. read <hi>Inquirys. P.</hi> 6. <hi>read</hi> this.</p>
+            <pb facs="tcp:33977:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
